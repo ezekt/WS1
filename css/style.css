@@ -1,0 +1,59 @@
+
+
+.first-v {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.first-v__wrap {
+            position: absolute;
+            top: 35%;
+            left: 50%;
+            height: 15%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            transform: translate(-50%, -50%);
+            color: white;
+        }
+
+.first-v__img {
+    width: 100%; 
+    height: 100vh;
+    background-image: url(../img/ramen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    right: 0;
+}
+
+.catch {
+    font-size: 40px;
+    font-family:  YuMincho;
+    font-weight: bold;
+    z-index: 1;
+    text-align: center;
+    text-shadow: 0px 0px 10px black;
+}
+.catch_sub {
+    font-size: 37px;
+    font-family: YuMincho;
+    z-index: 1;
+        text-shadow: 0px 0px 10px black;
+
+}
+
+button {
+    position: relative;
+    top: 230%;
+}
+
+.btn-primary {
+    font-size: 22px;
+    background-color: #28385E;
+    border-color: #28385E;
+}
+
+.ff {
+    font-family: Yumincho;
+}
