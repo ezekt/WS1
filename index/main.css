@@ -1,6 +1,4 @@
-a {
-  margin-top: 150%;
-}
+
 
 .first-v {
     width: 100%;
@@ -159,3 +157,141 @@ button {
   transform: rotate(-45deg);
   top: 20px;
 }
+.mr-3 {
+    width: 150px;
+    border-radius: 30%;
+    margin-top:5%;
+    margin-left: 10%;
+}
+
+.order-2 {
+    width: 150px;
+    border-radius: 30%;
+     margin-top: 30px;
+    margin-right: 10%;
+}
+
+.insta {
+    margin-left: 25%;
+}
+
+h1 {
+    margin-top: 50px;
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 3rem;
+    color: white;
+}
+
+h5 {
+    margin-top: 50px;
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+}
+
+body {
+    font-family: Yumincho;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #28385E;
+    color: white;
+    width: 100%;
+}
+
+h1{
+    padding: 10% 0 0 10%;    
+    color: white;
+}
+
+iframe {
+  width: 80%;
+  margin: 5% 5% 5% 10%;
+}
+
+p{
+    margin-left: 10%;
+}
+
+h1{
+    padding: 10% 0 0 10%;    
+    color: white;
+}
+
+body {
+    background-color: #28385E;
+}
+
+figure {
+  margin: 10%;
+}
+
+figcaption {
+    text-align: center;
+}
+.figure-caption {
+    color: white;
+}
+p {
+    text-align: center;
+    margin: 5%;
+    color: white;
+}
+
+
+.btn-primary {
+    margin-left: 6px;
+    color: #28385E;
+    font-size: 22px;
+    background-color: white;
+    border-color: white;
+}
+h1{
+    padding: 10% 0 0 10%;    
+}
+.img{
+    border-radius: 50%;
+    padding: 10%;
+}
+p, h2 {
+    text-align: center;
+    line-height: 150%;
+}
+h2 {
+    margin-bottom: 10%;
+}
+p {
+    margin-bottom: 20%;
+}
+
+body {
+    background-color: #28385E;
+    color: white;
+}
+
+.inu {
+  border-radius: 50%;
+  padding: 15%;
+}
+
+.bottom-btn {
+  margin-left: 25%;
+  margin-bottom: 10%;
+}
+
+.falilv-img {
+  width: 100%;
+  padding: 10%;
+}
+
+.ziyoou {
+  margin-left: 12%;
+}
+
+.afuri {
+  border-radius: 50%;
+}
+
+
+
